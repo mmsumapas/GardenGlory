@@ -1,0 +1,2 @@
+insert into PaymentMethod(PaymentMethodId, Method) values ('PYM 001', 'Online Payment');
+insert into PaymentMethod(PaymentMethodId, Method) values ('PYM 002', 'Cash Payment');

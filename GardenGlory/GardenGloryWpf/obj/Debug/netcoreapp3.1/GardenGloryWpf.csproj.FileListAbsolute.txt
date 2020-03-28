@@ -1,0 +1,953 @@
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.exe
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.deps.json
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.runtimeconfig.json
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.runtimeconfig.dev.json
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.pdb
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGlory.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGlory.pdb
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.csprojAssemblyReference.cache
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\AddAccount.g.cs
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\EditAccount.g.cs
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\AddCustomerView.g.cs
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\EditCustomer.g.cs
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\AddEmployee.g.cs
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\EditEmployeeView.g.cs
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipment.g.cs
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\EditEquipment.g.cs
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddProperty.g.cs
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditProperty.g.cs
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddService.g.cs
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\EditService.g.cs
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf_MarkupCompile.cache
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf_MarkupCompile.lref
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\AddAccount.baml
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\EditAccount.baml
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\AddCustomerView.baml
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\EditCustomer.baml
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\AddEmployee.baml
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\EditEmployeeView.baml
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipment.baml
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\EditEquipment.baml
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddProperty.baml
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditProperty.baml
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddService.baml
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\EditService.baml
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.g.resources
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.AssemblyInfoInputs.cache
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.AssemblyInfo.cs
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.csproj.CopyComplete
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.pdb
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.exe
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.deps.json
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.runtimeconfig.json
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.runtimeconfig.dev.json
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.pdb
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGlory.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGlory.pdb
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.csprojAssemblyReference.cache
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\AddAccount.g.cs
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\EditAccount.g.cs
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\AddCustomerView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\EditCustomer.g.cs
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\AddEmployee.g.cs
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\EditEmployeeView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipment.g.cs
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\EditEquipment.g.cs
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddProperty.g.cs
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditProperty.g.cs
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddService.g.cs
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\EditService.g.cs
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf_MarkupCompile.cache
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf_MarkupCompile.lref
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\AddAccount.baml
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\EditAccount.baml
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\AddCustomerView.baml
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\EditCustomer.baml
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\AddEmployee.baml
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\EditEmployeeView.baml
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipment.baml
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\EditEquipment.baml
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddProperty.baml
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditProperty.baml
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddService.baml
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\EditService.baml
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.g.resources
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.AssemblyInfoInputs.cache
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.AssemblyInfo.cs
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.csproj.CopyComplete
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.pdb
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.csprojAssemblyReference.cache
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\AddAccountView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\EditAccountView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\AddCustomerView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\EditCustomerView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\AddEmployeeView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\EditEmployeeView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\EditEquipmentView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyDescriptionView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditPropertyView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddServiceView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\EditServiceView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf_MarkupCompile.cache
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf_MarkupCompile.lref
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.exe
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.deps.json
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.runtimeconfig.json
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.runtimeconfig.dev.json
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.pdb
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGlory.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGlory.pdb
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddPaymentView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddTaskView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\AddAccountView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\EditAccountView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\AddCustomerView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\EditCustomerView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\AddEmployeeView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\EditEmployeeView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\EditEquipmentView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyDescriptionView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditPropertyView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddServiceView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\EditServiceView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddTaskView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddPaymentView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.g.resources
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.AssemblyInfoInputs.cache
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.AssemblyInfo.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.csproj.CopyComplete
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.pdb
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentRepairView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddTrainedEmployeeView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentRepairView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddTrainedEmployeeView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.exe
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.deps.json
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.runtimeconfig.json
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.runtimeconfig.dev.json
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.pdb
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGlory.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGlory.pdb
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.csprojAssemblyReference.cache
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\AddAccountView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\EditAccountView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\AddCustomerView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\EditCustomerView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\AddEmployeeView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\EditEmployeeView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentRepairView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddTrainedEmployeeView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\EditEquipmentView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyDescriptionView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditPropertyView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddPaymentView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddServiceView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddTaskView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\EditServiceView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf_MarkupCompile.cache
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf_MarkupCompile.lref
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\AddAccountView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\EditAccountView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\AddCustomerView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\EditCustomerView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\AddEmployeeView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\EditEmployeeView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentRepairView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddTrainedEmployeeView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\EditEquipmentView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyDescriptionView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditPropertyView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddPaymentView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddServiceView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddTaskView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\EditServiceView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.g.resources
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.AssemblyInfoInputs.cache
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.AssemblyInfo.cs
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.csproj.CopyComplete
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.pdb
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.exe
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.deps.json
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.runtimeconfig.json
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.runtimeconfig.dev.json
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.pdb
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGlory.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGlory.pdb
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.csprojAssemblyReference.cache
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\AddAccountView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\EditAccountView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\AddCustomerView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\EditCustomerView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\AddEmployeeView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\EditEmployeeView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentRepairView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddTrainedEmployeeView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\EditEquipmentView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyDescriptionView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditPropertyView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddPaymentView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddServiceView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddTaskView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\EditServiceView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf_MarkupCompile.cache
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf_MarkupCompile.lref
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\AddAccountView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\EditAccountView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\AddCustomerView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\EditCustomerView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\AddEmployeeView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\EditEmployeeView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentRepairView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddTrainedEmployeeView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\EditEquipmentView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyDescriptionView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditPropertyView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddPaymentView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddServiceView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddTaskView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\EditServiceView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.g.resources
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.AssemblyInfoInputs.cache
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.AssemblyInfo.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.csproj.CopyComplete
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Error checked\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.pdb
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.exe
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.deps.json
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.runtimeconfig.json
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.runtimeconfig.dev.json
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.pdb
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGlory.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGlory.pdb
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.csprojAssemblyReference.cache
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\AddAccountView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\EditAccountView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\AddCustomerView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\EditCustomerView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\AddEmployeeView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\EditEmployeeView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentRepairView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddTrainedEmployeeView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\EditEquipmentView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyDescriptionView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditPropertyView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddPaymentView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddServiceView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddTaskView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\EditServiceView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf_MarkupCompile.cache
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf_MarkupCompile.lref
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\AddAccountView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\EditAccountView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\AddCustomerView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\EditCustomerView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\AddEmployeeView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\EditEmployeeView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentRepairView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddTrainedEmployeeView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\EditEquipmentView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyDescriptionView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditPropertyView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddPaymentView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddServiceView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddTaskView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\EditServiceView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.g.resources
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.AssemblyInfoInputs.cache
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.AssemblyInfo.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.csproj.CopyComplete
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Searchable combobox\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.pdb
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.csprojAssemblyReference.cache
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\AddAccountView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\EditAccountView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\AddCustomerView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\EditCustomerView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\AddEmployeeView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\EditEmployeeView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentRepairView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddTrainedEmployeeView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\EditEquipmentView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyDescriptionView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditPropertyDescriptionView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditPropertyView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddPaymentView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddServiceView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddTaskView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\EditServiceView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf_MarkupCompile.cache
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf_MarkupCompile.lref
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.exe
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.deps.json
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.runtimeconfig.json
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.runtimeconfig.dev.json
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.pdb
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGlory.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGlory.pdb
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\AddAccountView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\EditAccountView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\AddCustomerView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\EditCustomerView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\AddEmployeeView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\EditEmployeeView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentRepairView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddTrainedEmployeeView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\EditEquipmentView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyDescriptionView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditPropertyDescriptionView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditPropertyView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddPaymentView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddServiceView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddTaskView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\EditServiceView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.g.resources
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.AssemblyInfoInputs.cache
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.AssemblyInfo.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.csproj.CopyComplete
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.pdb
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.exe
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.deps.json
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.runtimeconfig.json
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.runtimeconfig.dev.json
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.pdb
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGlory.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGlory.pdb
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.csprojAssemblyReference.cache
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\AddAccountView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\EditAccountView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\AddCustomerView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\EditCustomerView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\AddEmployeeView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\EditEmployeeView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentRepairView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddTrainedEmployeeView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\EditEquipmentView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyDescriptionView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditPropertyDescriptionView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditPropertyView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddPaymentView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddServiceView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddTaskView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\EditServiceView.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf_MarkupCompile.cache
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf_MarkupCompile.lref
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\AddAccountView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\EditAccountView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\AddCustomerView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\EditCustomerView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\AddEmployeeView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\EditEmployeeView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentRepairView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddTrainedEmployeeView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\EditEquipmentView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyDescriptionView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditPropertyDescriptionView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditPropertyView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddPaymentView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddServiceView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddTaskView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\EditServiceView.baml
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.g.resources
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.AssemblyInfoInputs.cache
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.AssemblyInfo.cs
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.csproj.CopyComplete
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.pdb
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\EditEmployeeView.baml
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.csprojAssemblyReference.cache
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\AddAccountView.g.cs
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\EditAccountView.g.cs
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\AddCustomerView.g.cs
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\EditCustomerView.g.cs
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\AddEmployeeView.g.cs
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\EditEmployeeView.g.cs
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentRepairView.g.cs
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentView.g.cs
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddTrainedEmployeeView.g.cs
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\EditEquipmentView.g.cs
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyDescriptionView.g.cs
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyView.g.cs
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditPropertyDescriptionView.g.cs
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditPropertyView.g.cs
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddPaymentView.g.cs
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddServiceView.g.cs
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddTaskView.g.cs
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\EditServiceView.g.cs
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf_MarkupCompile.cache
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf_MarkupCompile.lref
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.exe
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.deps.json
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.runtimeconfig.json
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.runtimeconfig.dev.json
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.pdb
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGlory.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGlory.pdb
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\AddAccountView.baml
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\EditAccountView.baml
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\AddCustomerView.baml
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\EditCustomerView.baml
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\AddEmployeeView.baml
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentRepairView.baml
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentView.baml
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddTrainedEmployeeView.baml
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\EditEquipmentView.baml
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyDescriptionView.baml
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyView.baml
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditPropertyDescriptionView.baml
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditPropertyView.baml
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddPaymentView.baml
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddServiceView.baml
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddTaskView.baml
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\EditServiceView.baml
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.g.resources
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.AssemblyInfoInputs.cache
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.AssemblyInfo.cs
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.csproj.CopyComplete
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.pdb
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\EditAccountHomeView.g.cs
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\EditAccountHomeView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.exe
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.deps.json
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.runtimeconfig.json
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.runtimeconfig.dev.json
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.pdb
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGlory.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGlory.pdb
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.csprojAssemblyReference.cache
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\AddAccountView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\EditAccountHomeView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\EditAccountView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\AddCustomerView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\EditCustomerView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\AddEmployeeView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\EditEmployeeView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentRepairView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddTrainedEmployeeView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\EditEquipmentView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyDescriptionView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditPropertyDescriptionView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditPropertyView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddPaymentView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddServiceView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddTaskView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\EditServiceView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf_MarkupCompile.cache
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf_MarkupCompile.lref
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\AddAccountView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\EditAccountHomeView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\EditAccountView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\AddCustomerView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\EditCustomerView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\AddEmployeeView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\EditEmployeeView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentRepairView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddTrainedEmployeeView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\EditEquipmentView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyDescriptionView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditPropertyDescriptionView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditPropertyView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddPaymentView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddServiceView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddTaskView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\EditServiceView.baml
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.g.resources
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.AssemblyInfoInputs.cache
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.AssemblyInfo.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.csproj.CopyComplete
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlorySystem\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.pdb
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.exe
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.deps.json
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.runtimeconfig.json
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.runtimeconfig.dev.json
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGloryWpf.pdb
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGlory.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\GardenGlory.pdb
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.csprojAssemblyReference.cache
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\AddAccountView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\EditAccountHomeView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\EditAccountView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\AddCustomerView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\EditCustomerView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\AddEmployeeView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\EditEmployeeView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentRepairView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddTrainedEmployeeView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\EditEquipmentView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyDescriptionView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditPropertyDescriptionView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditPropertyView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddPaymentView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddServiceView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddTaskView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\EditServiceView.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf_MarkupCompile.cache
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf_MarkupCompile.lref
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\AddAccountView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\EditAccountHomeView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\EditAccountView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\AddCustomerView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Customer\EditCustomerView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\AddEmployeeView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Employee\EditEmployeeView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentRepairView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddEquipmentView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\AddTrainedEmployeeView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Equipment\EditEquipmentView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyDescriptionView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\AddPropertyView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditPropertyDescriptionView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Property\EditPropertyView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddPaymentView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddServiceView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\AddTaskView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Service\EditServiceView.baml
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.g.resources
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.AssemblyInfoInputs.cache
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.AssemblyInfo.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.csproj.CopyComplete
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\GardenGloryWpf.pdb
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\EditAccountHomeView.g.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGloryWpf\obj\Debug\netcoreapp3.1\View\Account\EditAccountHomeView.baml

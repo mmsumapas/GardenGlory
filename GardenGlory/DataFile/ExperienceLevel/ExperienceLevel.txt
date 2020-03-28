@@ -1,0 +1,5 @@
+insert into ExperienceLevel(ExperienceLevelId, Level) values ('EL 001', 'Junior');
+insert into ExperienceLevel(ExperienceLevelId, Level) values ('EL 002', 'Senior');
+insert into ExperienceLevel(ExperienceLevelId, Level) values ('EL 003', 'Master');
+insert into ExperienceLevel(ExperienceLevelId, Level) values ('EL 004', 'Super Master');
+

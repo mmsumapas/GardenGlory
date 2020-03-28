@@ -1,0 +1,1807 @@
+﻿<Window
+    x:Class="GardenGloryWpf.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:GardenGloryWpf"
+    xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="GardenGlory"
+    Width="1000"
+    Height="600"
+    ResizeMode="NoResize"
+    WindowStartupLocation="CenterScreen"
+    mc:Ignorable="d">
+    <Grid Margin="8" Background="Azure">
+        <TabControl TabStripPlacement="Left">
+            <TabItem x:Name="Login" Header="Home">
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="400" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="1">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="150" />
+                            <ColumnDefinition Width="5" />
+                            <ColumnDefinition Width="250" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="100" />
+                            <RowDefinition Height="50" />
+                            <RowDefinition Height="130" />
+                            <RowDefinition Height="5" />
+                            <RowDefinition Height="50" />
+                            <RowDefinition Height="50" />
+                        </Grid.RowDefinitions>
+                        <Label
+                            Name="LabelUser"
+                            Grid.Row="0"
+                            Grid.Column="0"
+                            HorizontalAlignment="Right"
+                            VerticalAlignment="Bottom"
+                            Content="System User"
+                            FontFamily="Cambria Math"
+                            FontSize="20" />
+                        <Label
+                            Name="LabelUserRole"
+                            Grid.Row="1"
+                            Grid.Column="0"
+                            HorizontalAlignment="Right"
+                            VerticalAlignment="Bottom"
+                            Content="Role"
+                            FontFamily="Cambria Math"
+                            FontSize="20" />
+                        <Label
+                            Name="LabelUsername"
+                            Grid.Row="2"
+                            Grid.Column="0"
+                            HorizontalAlignment="Right"
+                            VerticalAlignment="Bottom"
+                            Content="username"
+                            FontSize="20" />
+                        <Label
+                            Name="LabelPassword"
+                            Grid.Row="4"
+                            Grid.Column="0"
+                            HorizontalAlignment="Right"
+                            VerticalAlignment="Top"
+                            Content="password"
+                            FontSize="20" />
+                        <TextBlock
+                            Name="txtUser"
+                            Grid.Row="0"
+                            Grid.Column="2"
+                            Width="250"
+                            Height="30"
+                            HorizontalAlignment="Left"
+                            VerticalAlignment="Bottom"
+                            FontSize="20" />
+                        <TextBlock
+                            Name="txtUserRole"
+                            Grid.Row="1"
+                            Grid.Column="2"
+                            Width="250"
+                            Height="30"
+                            HorizontalAlignment="Left"
+                            VerticalAlignment="Bottom"
+                            FontSize="20" />
+                        <TextBox
+                            Name="txtHomeUsername"
+                            Grid.Row="2"
+                            Grid.Column="2"
+                            Width="250"
+                            Height="30"
+                            HorizontalAlignment="Left"
+                            VerticalAlignment="Bottom"
+                            FontSize="17" />
+                        <TextBox
+                            Name="txtHomePassword"
+                            Grid.Row="4"
+                            Grid.Column="2"
+                            Width="250"
+                            Height="30"
+                            HorizontalAlignment="Left"
+                            VerticalAlignment="Top"
+                            FontSize="17" />
+                        <Button
+                            Name="LogInButton"
+                            Grid.Row="5"
+                            Grid.Column="2"
+                            Width="80"
+                            HorizontalAlignment="Right"
+                            Background="DarkCyan"
+                            BorderBrush="Transparent"
+                            Click="LogInButton_Click"
+                            Content="Log In" />
+                        <Button
+                            Name="LogOutButton"
+                            Grid.Row="0"
+                            Grid.Column="3"
+                            Width="90"
+                            HorizontalAlignment="Right"
+                            VerticalAlignment="Top"
+                            Background="DarkCyan"
+                            BorderBrush="Transparent"
+                            Click="LogOutButton_Click"
+                            Content="Log out" />
+                        <Button
+                            Name="EditAccount"
+                            Grid.Row="0"
+                            Grid.Column="2"
+                            Width="120"
+                            HorizontalAlignment="Right"
+                            VerticalAlignment="Top"
+                            Background="DarkCyan"
+                            BorderBrush="Transparent"
+                            Click="EditAccount_Click"
+                            Content="Edit Account" />
+                    </Grid>
+                    <Grid Grid.Column="0" Background="LightSeaGreen">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="130" />
+                            <RowDefinition Height="5" />
+                            <RowDefinition Height="150" />
+                            <RowDefinition Height="5" />
+                            <RowDefinition Height="100" />
+                            <RowDefinition Height="100" />
+
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="100" />
+                            <ColumnDefinition Width="5" />
+                            <ColumnDefinition Width="200" />
+                            <ColumnDefinition Width="5" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <Grid
+                            Grid.Row="2"
+                            Grid.Column="1"
+                            Background="White" />
+                        <Grid
+                            Grid.Row="1"
+                            Grid.Column="1"
+                            Background="White" />
+                        <Grid
+                            Grid.Row="3"
+                            Grid.Column="1"
+                            Background="White" />
+
+                        <Grid
+                            Grid.Row="2"
+                            Grid.Column="3"
+                            Background="White" />
+                        <Grid
+                            Grid.Row="1"
+                            Grid.Column="3"
+                            Background="White" />
+                        <Grid
+                            Grid.Row="3"
+                            Grid.Column="3"
+                            Background="White" />
+
+                        <Grid
+                            Grid.Row="3"
+                            Grid.Column="2"
+                            Background="White" />
+                        <Grid
+                            Grid.Row="3"
+                            Grid.Column="1"
+                            Background="White" />
+                        <Grid
+                            Grid.Row="3"
+                            Grid.Column="3"
+                            Background="White" />
+                        <Grid
+                            Grid.Row="1"
+                            Grid.Column="2"
+                            Background="White" />
+
+                        <Grid Grid.Row="2" Grid.Column="2">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="100" />
+                                <ColumnDefinition Width="100" />
+                            </Grid.ColumnDefinitions>
+                            <TextBlock
+                                VerticalAlignment="Center"
+                                FontFamily="Blackadder ITC"
+                                FontSize="120"
+                                Foreground="White"
+                                Text="G" />
+                            <TextBlock
+                                Grid.Column="1"
+                                VerticalAlignment="Center"
+                                FontFamily="Blackadder ITC"
+                                FontSize="120"
+                                Foreground="White"
+                                RenderTransformOrigin="0.5,0.5"
+                                Text="G">
+                                <TextBlock.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform />
+                                        <SkewTransform />
+                                        <RotateTransform Angle="180.236" />
+                                        <TranslateTransform />
+                                    </TransformGroup>
+                                </TextBlock.RenderTransform>
+                            </TextBlock>
+                        </Grid>
+                        <Grid Grid.Row="4" Grid.Column="2">
+                            <TextBlock
+                                HorizontalAlignment="Center"
+                                VerticalAlignment="Top"
+                                FontFamily="Bell MT"
+                                FontSize="24"
+                                Foreground="White"
+                                Text="GARDEN GLORY" />
+                        </Grid>
+
+
+                    </Grid>
+                </Grid>
+            </TabItem>
+            <TabItem
+                x:Name="CustomerTab"
+                Height="20"
+                VerticalAlignment="Top"
+                Header="Customer">
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="180" />
+                        <ColumnDefinition Width="5" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="2" DataContext="{Binding Path=SelectedCustomer}">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="180" />
+                            <RowDefinition Height="5" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="1" Background="DarkGray" />
+                        <Grid Grid.Row="0">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="30" />
+                                <RowDefinition Height="5" />
+                                <RowDefinition Height="30" />
+                                <RowDefinition Height="30" />
+                                <RowDefinition Height="30" />
+                                <RowDefinition Height="30" />
+                                <RowDefinition Height="30" />
+
+                            </Grid.RowDefinitions>
+                            <Grid Grid.Row="0">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="90" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <Button
+                                    Name="NewCustomer"
+                                    Grid.Column="0"
+                                    Width="80"
+                                    Height="30"
+                                    HorizontalAlignment="Right"
+                                    Background="DarkCyan"
+                                    BorderBrush="Transparent"
+                                    Click="AddCustomer_Click"
+                                    Content="Add" />
+                                <StackPanel
+                                    Grid.Column="1"
+                                    HorizontalAlignment="Right"
+                                    Orientation="Horizontal">
+                                    <Button
+                                        Name="CustomerEdit"
+                                        Width="80"
+                                        Background="DarkCyan"
+                                        BorderBrush="Transparent"
+                                        Click="CustomerEdit_Click"
+                                        Content="Edit" />
+                                    <Button
+                                        Name="CustomerDelete"
+                                        Width="80"
+                                        HorizontalAlignment="Left"
+                                        Background="DarkCyan"
+                                        BorderBrush="Transparent"
+                                        Click="CustomerDelete_Click"
+                                        Content="Delete" />
+
+                                </StackPanel>
+
+                            </Grid>
+                            <Grid Grid.Row="2">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="200" />
+                                    <ColumnDefinition Width="5" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <Label
+                                    Grid.Column="0"
+                                    HorizontalAlignment="Right"
+                                    Content="Customer ID"
+                                    FontWeight="Bold" />
+                                <TextBlock
+                                    Name="txtBlockCustomerId"
+                                    Grid.Column="2"
+                                    Width="300"
+                                    HorizontalAlignment="Left"
+                                    VerticalAlignment="Top"
+                                    FontSize="17"
+                                    Text="{Binding Path=OwnerId}" />
+                            </Grid>
+                            <Grid Grid.Row="3">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="200" />
+                                    <ColumnDefinition Width="5" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <Label
+                                    Grid.Column="0"
+                                    HorizontalAlignment="Right"
+                                    Content="Name"
+                                    FontWeight="Bold" />
+                                <TextBlock
+                                    Name="txtBlockName"
+                                    Grid.Column="2"
+                                    Width="300"
+                                    HorizontalAlignment="Left"
+                                    VerticalAlignment="Top"
+                                    FontSize="17"
+                                    Text="{Binding Path=Name}" />
+                            </Grid>
+                            <Grid Grid.Row="4">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="200" />
+                                    <ColumnDefinition Width="5" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <Label
+                                    Grid.Column="0"
+                                    HorizontalAlignment="Right"
+                                    Content="Email"
+                                    FontWeight="Bold" />
+                                <TextBlock
+                                    Name="txtBlockEmail"
+                                    Grid.Column="2"
+                                    Width="300"
+                                    HorizontalAlignment="Left"
+                                    VerticalAlignment="Top"
+                                    FontSize="17"
+                                    Text="{Binding Path=Email}" />
+                            </Grid>
+                            <Grid Grid.Row="5">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="200" />
+                                    <ColumnDefinition Width="5" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <Label
+                                    Grid.Column="0"
+                                    HorizontalAlignment="Right"
+                                    Content="Contact Number"
+                                    FontWeight="Bold" />
+                                <TextBlock
+                                    Name="txtBlockCustomerContactNumber"
+                                    Grid.Column="2"
+                                    Width="300"
+                                    HorizontalAlignment="Left"
+                                    VerticalAlignment="Top"
+                                    FontSize="17"
+                                    Text="{Binding Path=ContactNumber}" />
+                            </Grid>
+                            <Grid Grid.Row="6">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="200" />
+                                    <ColumnDefinition Width="5" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <Label
+                                    Grid.Column="0"
+                                    HorizontalAlignment="Right"
+                                    Content="Type"
+                                    FontWeight="Bold" />
+                                <TextBlock
+                                    Name="txtBlockCustomerType"
+                                    Grid.Column="2"
+                                    Width="300"
+                                    HorizontalAlignment="Left"
+                                    VerticalAlignment="Top"
+                                    FontSize="17"
+                                    Text="{Binding Path=OwnerType}" />
+                            </Grid>
+
+                        </Grid>
+                        <Grid Grid.Row="2" Background="Azure">
+                            <ListView Name="ListViewCustomerDetails" ItemsSource="{Binding Path=CustomerDetialList}">
+                                <ListView.View>
+                                    <GridView>
+                                        <GridViewColumn
+                                            Width="150"
+                                            DisplayMemberBinding="{Binding PropertyName}"
+                                            Header="Property" />
+                                        <GridViewColumn
+                                            Width="150"
+                                            DisplayMemberBinding="{Binding ServiceId}"
+                                            Header="Service ID" />
+                                        <GridViewColumn
+                                            Width="150"
+                                            DisplayMemberBinding="{Binding ServiceType}"
+                                            Header="Services Type" />
+                                        <GridViewColumn
+                                            Width="150"
+                                            DisplayMemberBinding="{Binding RequestDate}"
+                                            Header="Request Date" />
+                                    </GridView>
+                                </ListView.View>
+                            </ListView>
+                        </Grid>
+                    </Grid>
+                    <Grid Grid.Column="1" />
+                    <Grid Grid.Column="0">
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="70" />
+                                <RowDefinition Height="*" />
+                            </Grid.RowDefinitions>
+                            <Grid Grid.Row="0">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="30" />
+                                    <RowDefinition Height="*" />
+                                </Grid.RowDefinitions>
+                                <Button
+                                    Name="CustomerRefresh"
+                                    Grid.Column="0"
+                                    Width="80"
+                                    Height="30"
+                                    HorizontalAlignment="Right"
+                                    Background="DarkCyan"
+                                    BorderBrush="Transparent"
+                                    Click="CustomerRefresh_Click"
+                                    Content="Refresh" />
+                                <TextBox
+                                    Name="txtSearch"
+                                    Grid.Row="1"
+                                    Width="170"
+                                    Height="30"
+                                    HorizontalAlignment="Left"
+                                    Text="{Binding Path=SearchText, Delay=40, UpdateSourceTrigger=PropertyChanged}" />
+                            </Grid>
+                            <Grid Grid.Row="1">
+                                <ListBox
+                                    Name="ListViewCustomer"
+                                    Background="LightSeaGreen"
+                                    ItemsSource="{Binding Path=CustomerList}"
+                                    SelectedItem="{Binding Path=SelectedCustomer}">
+                                    <ListBox.ItemTemplate>
+                                        <DataTemplate>
+                                            <Border
+                                                Width="140"
+                                                Margin="0,0,0,3"
+                                                Padding="6"
+                                                BorderBrush="Teal"
+                                                BorderThickness="1">
+                                                <StackPanel Margin="5,2">
+                                                    <TextBlock FontSize="9" Text="{Binding Path=OwnerId}" />
+                                                    <TextBlock FontSize="13" Text="{Binding Path=Name}" />
+                                                    <TextBlock
+                                                        FontSize="12"
+                                                        Foreground="LightGreen"
+                                                        Text="{Binding Path=OwnerType}" />
+                                                </StackPanel>
+                                            </Border>
+                                        </DataTemplate>
+                                    </ListBox.ItemTemplate>
+                                </ListBox>
+                            </Grid>
+                        </Grid>
+                    </Grid>
+                </Grid>
+
+            </TabItem>
+            <TabItem x:Name="PropertyTab" Header="Property">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="180" />
+                        <ColumnDefinition Width="5" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="50" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="0">
+                            <TextBox
+                                Width="170"
+                                Height="30"
+                                HorizontalAlignment="Left"
+                                Text="{Binding Path=SearchText, Delay=100, UpdateSourceTrigger=PropertyChanged}" />
+                        </Grid>
+                        <Grid Grid.Row="1">
+                            <ListBox
+                                Name="ListViewProperty"
+                                Background="LightSeaGreen"
+                                ItemsSource="{Binding Path=PropertyList}"
+                                SelectedItem="{Binding Path=SelectedProperty}">
+                                <ListBox.ItemTemplate>
+                                    <DataTemplate>
+                                        <Border
+                                            Width="140"
+                                            Margin="0,0,0,3"
+                                            Padding="6"
+                                            BorderBrush="Teal"
+                                            BorderThickness="1">
+                                            <StackPanel Margin="5,2">
+                                                <TextBlock FontSize="9" Text="{Binding Path=PropertyId}" />
+                                                <TextBlock FontSize="9" Text="{Binding Path=OwnerId}" />
+                                                <TextBlock FontSize="9" Text="{Binding Path=OwnerName}" />
+                                                <TextBlock FontSize="13" Text="{Binding Path=PropertyName}" />
+                                            </StackPanel>
+                                        </Border>
+                                    </DataTemplate>
+                                </ListBox.ItemTemplate>
+                            </ListBox>
+                        </Grid>
+                    </Grid>
+                    <Grid Grid.Column="2" DataContext="{Binding Path=SelectedProperty}">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="50" />
+                            <RowDefinition Height="220" />
+                            <RowDefinition Height="5" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="3" Background="DarkGray" />
+                        <Grid Grid.Row="0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="90" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Button
+                                Grid.Column="0"
+                                Width="80"
+                                Height="30"
+                                HorizontalAlignment="Left"
+                                Background="DarkCyan"
+                                BorderBrush="Transparent"
+                                Click="AddProperty"
+                                Content="Add" />
+                            <StackPanel
+                                Grid.Column="1"
+                                HorizontalAlignment="Right"
+                                Orientation="Horizontal">
+                                <Button
+                                    Name="PropertyEdit"
+                                    Width="80"
+                                    Background="DarkCyan"
+                                    BorderBrush="Transparent"
+                                    Click="PropertyEdit_Click"
+                                    Content="Edit" />
+                                <Button
+                                    Name="PropertyDelete"
+                                    Width="80"
+                                    Background="DarkCyan"
+                                    BorderBrush="Transparent"
+                                    Click="PropertyDelete_Click"
+                                    Content="Delete" />
+                            </StackPanel>
+
+                        </Grid>
+
+                        <Grid Grid.Row="2">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="30" />
+                                <RowDefinition Height="30" />
+                                <RowDefinition Height="30" />
+                                <RowDefinition Height="30" />
+                                <RowDefinition Height="30" />
+                                <RowDefinition Height="30" />
+                                <RowDefinition Height="30" />
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="200" />
+                                <ColumnDefinition Width="5" />
+                                <ColumnDefinition Width="200" />
+                            </Grid.ColumnDefinitions>
+
+                            <Label
+                                Grid.Row="0"
+                                Grid.Column="0"
+                                HorizontalAlignment="Right"
+                                Content="Property ID"
+                                FontWeight="Bold" />
+                            <Label
+                                Grid.Row="1"
+                                Grid.Column="0"
+                                HorizontalAlignment="Right"
+                                Content="Owner ID"
+                                FontWeight="Bold" />
+                            <Label
+                                Grid.Row="2"
+                                Grid.Column="0"
+                                HorizontalAlignment="Right"
+                                Content="Owner Name"
+                                FontWeight="Bold" />
+                            <Label
+                                Grid.Row="3"
+                                Grid.Column="0"
+                                HorizontalAlignment="Right"
+                                Content="Property Name"
+                                FontWeight="Bold" />
+
+                            <Label
+                                Grid.Row="4"
+                                Grid.Column="0"
+                                HorizontalAlignment="Right"
+                                Content="Street"
+                                FontWeight="Bold" />
+                            <Label
+                                Grid.Row="5"
+                                Grid.Column="0"
+                                HorizontalAlignment="Right"
+                                Content="City"
+                                FontWeight="Bold" />
+                            <Label
+                                Grid.Row="6"
+                                Grid.Column="0"
+                                HorizontalAlignment="Right"
+                                Content="Zip"
+                                FontWeight="Bold" />
+
+                            <TextBlock
+                                Name="txtBlockPropertyId"
+                                Grid.Row="0"
+                                Grid.Column="2"
+                                Height="30"
+                                HorizontalAlignment="Left"
+                                VerticalAlignment="Center"
+                                FontSize="15"
+                                Text="{Binding Path=PropertyId}" />
+
+                            <TextBlock
+                                Name="txtBlockOwnerId"
+                                Grid.Row="1"
+                                Grid.Column="2"
+                                Height="30"
+                                HorizontalAlignment="Left"
+                                VerticalAlignment="Center"
+                                FontSize="15"
+                                Text="{Binding Path=OwnerId}" />
+                            <TextBlock
+                                Name="txtBlockOwnerName"
+                                Grid.Row="2"
+                                Grid.Column="2"
+                                Height="30"
+                                HorizontalAlignment="Left"
+                                VerticalAlignment="Center"
+                                FontSize="15"
+                                Text="{Binding Path=OwnerName}" />
+                            <TextBlock
+                                Name="txtBlockPropertyName"
+                                Grid.Row="3"
+                                Grid.Column="2"
+                                Height="30"
+                                HorizontalAlignment="Left"
+                                VerticalAlignment="Center"
+                                FontSize="15"
+                                Text="{Binding Path=PropertyName}" />
+                            <TextBlock
+                                Name="txtBlockStreet"
+                                Grid.Row="4"
+                                Grid.Column="2"
+                                Height="30"
+                                HorizontalAlignment="Left"
+                                VerticalAlignment="Center"
+                                FontSize="15"
+                                Text="{Binding Path=Street}" />
+                            <TextBlock
+                                Name="txtBlockCity"
+                                Grid.Row="5"
+                                Grid.Column="2"
+                                Height="30"
+                                HorizontalAlignment="Left"
+                                VerticalAlignment="Center"
+                                FontSize="15"
+                                Text="{Binding Path=City}" />
+                            <TextBlock
+                                Name="txtBlockZip"
+                                Grid.Row="6"
+                                Grid.Column="2"
+                                Height="30"
+                                HorizontalAlignment="Left"
+                                VerticalAlignment="Center"
+                                FontSize="15"
+                                Text="{Binding Path=Zip}" />
+
+                        </Grid>
+                        <Grid Grid.Row="4" Background="Azure">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="100" />
+                                <ColumnDefinition Width="400" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Grid Grid.Column="1">
+                                <ListView
+                                    Name="ListViewPropertyDetails"
+                                    Grid.Row="1"
+                                    ItemsSource="{Binding Path=PropertyDescriptions}"
+                                    SelectionChanged="ListViewPropertyDetails_SelectionChanged">
+                                    <ListView.View>
+                                        <GridView>
+                                            <GridViewColumn
+                                                Width="120"
+                                                DisplayMemberBinding="{Binding PropertyDescriptionId}"
+                                                Header="PPD ID " />
+                                            <GridViewColumn
+                                                Width="280"
+                                                DisplayMemberBinding="{Binding Description}"
+                                                Header="Property Description" />
+                                        </GridView>
+                                    </ListView.View>
+                                </ListView>
+                            </Grid>
+                            <Grid Grid.Column="2">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="32" />
+                                    <RowDefinition Height="34" />
+                                    <RowDefinition Height="34" />
+                                </Grid.RowDefinitions>
+                                <Button
+                                    Name="AddParentProperty"
+                                    Width="177"
+                                    Height="30"
+                                    HorizontalAlignment="Right"
+                                    VerticalAlignment="Top"
+                                    Background="DarkCyan"
+                                    BorderBrush="Transparent"
+                                    Click="AddParentProperty_Click"
+                                    Content="Add Parent Property" />
+                            </Grid>
+                        </Grid>
+                    </Grid>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="ServiceTab" Header="Services">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="180" />
+                        <ColumnDefinition Width="5" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="50" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="0">
+                            <TextBox
+                                Width="170"
+                                Height="30"
+                                HorizontalAlignment="Left"
+                                Text="{Binding Path=SearchText, Delay=100, UpdateSourceTrigger=PropertyChanged}" />
+                        </Grid>
+                        <Grid Grid.Row="1">
+                            <ListBox
+                                Name="ListViewService"
+                                Background="LightSeaGreen"
+                                ItemsSource="{Binding Path=ServiceList}"
+                                SelectedItem="{Binding Path=SelectedService}">
+                                <ListBox.ItemTemplate>
+                                    <DataTemplate>
+                                        <Border
+                                            Width="140"
+                                            Margin="0,0,0,3"
+                                            Padding="6"
+                                            BorderBrush="Teal"
+                                            BorderThickness="1">
+                                            <StackPanel Margin="5,2">
+                                                <TextBlock FontSize="9" Text="{Binding Path=PropertyId}" />
+                                                <TextBlock FontSize="9" Text="{Binding Path=ServiceId}" />
+                                                <TextBlock FontSize="9" Text="{Binding Path=OwnerId}" />
+                                                <TextBlock FontSize="10" Text="{Binding Path=PropertyName}" />
+                                                <TextBlock FontSize="13" Text="{Binding Path=OwnerName}" />
+                                                <TextBlock
+                                                    FontSize="12"
+                                                    Foreground="LightGreen"
+                                                    Text="{Binding Path=ServiceRequest}" />
+                                            </StackPanel>
+                                        </Border>
+                                    </DataTemplate>
+                                </ListBox.ItemTemplate>
+                            </ListBox>
+                        </Grid>
+                    </Grid>
+                    <Grid Grid.Column="2" DataContext="{Binding Path=SelectedService}">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="3" />
+                            <RowDefinition Height="185" />
+                            <RowDefinition Height="3" />
+                            <RowDefinition Height="280" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="3" Background="DarkGray" />
+                        <Grid Grid.Row="0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="90" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Button
+                                Name="AddService"
+                                Grid.Column="0"
+                                Width="80"
+                                Height="30"
+                                Background="DarkCyan"
+                                BorderBrush="Transparent"
+                                Click="AddService_Click"
+                                Content="Add" />
+                            <StackPanel
+                                Grid.Column="1"
+                                HorizontalAlignment="Right"
+                                Orientation="Horizontal">
+                                <Button
+                                    Name="ServiceEdit"
+                                    Grid.Column="2"
+                                    Width="80"
+                                    Background="DarkCyan"
+                                    BorderBrush="Transparent"
+                                    Click="ServiceEdit_Click"
+                                    Content="Edit" />
+                                <Button
+                                    Name="ServiceDelete"
+                                    Grid.Column="4"
+                                    Width="80"
+                                    Background="DarkCyan"
+                                    BorderBrush="Transparent"
+                                    Click="ServiceDelete_Click"
+                                    Content="Delete" />
+                            </StackPanel>
+
+                        </Grid>
+                        <Grid Grid.Row="2">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="30" />
+                                <RowDefinition Height="30" />
+                                <RowDefinition Height="30" />
+                                <RowDefinition Height="30" />
+                                <RowDefinition Height="30" />
+                                <RowDefinition Height="30" />
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="200" />
+                                <ColumnDefinition Width="5" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+
+                            <Label
+                                Grid.Row="0"
+                                Grid.Column="0"
+                                HorizontalAlignment="Right"
+                                Content="Service ID"
+                                FontWeight="Bold" />
+                            <Label
+                                Grid.Row="1"
+                                Grid.Column="0"
+                                HorizontalAlignment="Right"
+                                Content="Owner"
+                                FontWeight="Bold" />
+                            <Label
+                                Grid.Row="2"
+                                Grid.Column="0"
+                                HorizontalAlignment="Right"
+                                Content="Property Name"
+                                FontWeight="Bold" />
+                            <Label
+                                Grid.Row="3"
+                                Grid.Column="0"
+                                HorizontalAlignment="Right"
+                                Content="Service Type"
+                                FontWeight="Bold" />
+                            <Label
+                                Grid.Row="4"
+                                Grid.Column="0"
+                                HorizontalAlignment="Right"
+                                Content="Request Date"
+                                FontWeight="Bold" />
+                            <Label
+                                Grid.Row="5"
+                                Grid.Column="0"
+                                HorizontalAlignment="Right"
+                                Content="Service Request"
+                                FontWeight="Bold" />
+
+                            <TextBlock
+                                Name="txtBlockServiceId"
+                                Grid.Row="0"
+                                Grid.Column="2"
+                                Height="30"
+                                HorizontalAlignment="Left"
+                                VerticalAlignment="Center"
+                                FontSize="15"
+                                Text="{Binding Path=ServiceId}" />
+                            <TextBlock
+                                Name="txtBlockOwner"
+                                Grid.Row="1"
+                                Grid.Column="2"
+                                Height="30"
+                                HorizontalAlignment="Left"
+                                VerticalAlignment="Center"
+                                FontSize="15"
+                                Text="{Binding Path=OwnerName}" />
+                            <TextBlock
+                                Name="txtBlockProperty"
+                                Grid.Row="2"
+                                Grid.Column="2"
+                                Height="30"
+                                HorizontalAlignment="Left"
+                                VerticalAlignment="Center"
+                                FontSize="15"
+                                Text="{Binding Path=PropertyName}" />
+                            <TextBlock
+                                Name="txtBlockServiceType"
+                                Grid.Row="3"
+                                Grid.Column="2"
+                                Height="30"
+                                HorizontalAlignment="Left"
+                                VerticalAlignment="Center"
+                                FontSize="15"
+                                Text="{Binding Path=ServiceType}" />
+                            <TextBlock
+                                Name="txtBlockRequestDate"
+                                Grid.Row="4"
+                                Grid.Column="2"
+                                Height="30"
+                                HorizontalAlignment="Left"
+                                VerticalAlignment="Center"
+                                FontSize="15"
+                                Text="{Binding Path=RequestDate}" />
+                            <TextBlock
+                                Name="txtBlockServiceRequest"
+                                Grid.Row="5"
+                                Grid.Column="2"
+                                Width="400"
+                                Height="30"
+                                HorizontalAlignment="Left"
+                                VerticalAlignment="Center"
+                                FontSize="15"
+                                Text="{Binding Path=ServiceRequest}" />
+
+                        </Grid>
+                        <Grid Grid.Row="4" Background="Azure">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="350" />
+                                <ColumnDefinition Width="5" />
+                                <ColumnDefinition Width="350" />
+                            </Grid.ColumnDefinitions>
+                            <Grid Grid.Column="1" Background="DarkGray" />
+                            <Grid Grid.Column="0">
+                                <ListView
+                                    Name="ListViewTask"
+                                    Grid.Row="1"
+                                    Width="350"
+                                    BorderBrush="DarkGray"
+                                    ItemsSource="{Binding Path=ServiceTaskDetailList}">
+                                    <ListView.View>
+                                        <GridView>
+                                            <GridViewColumn
+                                                Width="110"
+                                                DisplayMemberBinding="{Binding TaskId}"
+                                                Header="Task ID " />
+                                            <GridViewColumn
+                                                Width="100"
+                                                DisplayMemberBinding="{Binding Task}"
+                                                Header="Task" />
+                                            <GridViewColumn
+                                                Width="150"
+                                                DisplayMemberBinding="{Binding DateConducted}"
+                                                Header="Date Conducted" />
+                                        </GridView>
+                                    </ListView.View>
+                                </ListView>
+                            </Grid>
+                            <Grid Grid.Column="2">
+                                <ListView
+                                    Name="ListViewPayment"
+                                    Grid.Row="1"
+                                    ItemsSource="{Binding Path=ServicePaymentDetailList}">
+                                    <ListView.View>
+                                        <GridView>
+                                            <GridViewColumn
+                                                Width="120"
+                                                DisplayMemberBinding="{Binding PaymentId}"
+                                                Header="Payment ID " />
+                                            <GridViewColumn
+                                                Width="140"
+                                                DisplayMemberBinding="{Binding PaymentMethod}"
+                                                Header="Payment Method" />
+                                            <GridViewColumn
+                                                Width="150"
+                                                DisplayMemberBinding="{Binding Amount}"
+                                                Header="Amount ( ₱ )" />
+                                        </GridView>
+                                    </ListView.View>
+                                </ListView>
+                            </Grid>
+                        </Grid>
+                        <Grid Grid.Row="5" Background="Azure">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="350" />
+                                <ColumnDefinition Width="5" />
+                                <ColumnDefinition Width="350" />
+                            </Grid.ColumnDefinitions>
+                            <Grid Grid.Column="1" Background="DarkGray" />
+                            <Button
+                                Name="AddTask"
+                                Width="140"
+                                HorizontalAlignment="Left"
+                                Background="DarkCyan"
+                                BorderBrush="Transparent"
+                                Click="AddTask_Click"
+                                Content="Add Task" />
+                            <Button
+                                Name="AddPayment"
+                                Grid.Column="2"
+                                Width="140"
+                                HorizontalAlignment="Left"
+                                Background="DarkCyan"
+                                BorderBrush="Transparent"
+                                Click="AddPayment_Click"
+                                Content="Add Payment" />
+                        </Grid>
+                    </Grid>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="EquipmentTab" Header="Equipment">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="180" />
+                        <ColumnDefinition Width="5" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="70" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="0">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="30" />
+                                <RowDefinition Height="*" />
+                            </Grid.RowDefinitions>
+                            <Button
+                                Name="EquipmentRefresh"
+                                Grid.Column="0"
+                                Width="80"
+                                Height="30"
+                                HorizontalAlignment="Right"
+                                Background="DarkCyan"
+                                BorderBrush="Transparent"
+                                Click="EquipmentRefresh_Click"
+                                Content="Refresh" />
+                            <TextBox
+                                Grid.Row="1"
+                                Width="170"
+                                Height="30"
+                                HorizontalAlignment="Left"
+                                Text="{Binding Path=SearchText, Delay=100, UpdateSourceTrigger=PropertyChanged}" />
+                        </Grid>
+                        <Grid Grid.Row="1">
+                            <ListBox
+                                Name="ListViewEquipment"
+                                Background="LightSeaGreen"
+                                ItemsSource="{Binding Path=EquipmentList}"
+                                SelectedItem="{Binding Path=SelectedEquipment}">
+                                <ListBox.ItemTemplate>
+                                    <DataTemplate>
+                                        <Border
+                                            Width="140"
+                                            Margin="0,0,0,3"
+                                            Padding="6"
+                                            BorderBrush="Teal"
+                                            BorderThickness="1">
+                                            <StackPanel Margin="5,2">
+                                                <TextBlock FontSize="9" Text="{Binding Path=EquipmentId}" />
+                                                <TextBlock FontSize="13" Text="{Binding Path=EquipmentName}" />
+                                            </StackPanel>
+                                        </Border>
+                                    </DataTemplate>
+                                </ListBox.ItemTemplate>
+                            </ListBox>
+                        </Grid>
+                    </Grid>
+                    <Grid Grid.Column="1" />
+                    <Grid Grid.Column="2" DataContext="{Binding Path=SelectedEquipment}">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="5" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="5" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="90" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Button
+                                Name="AddEquipment"
+                                Grid.Column="0"
+                                Width="80"
+                                Height="30"
+                                HorizontalAlignment="Right"
+                                Background="DarkCyan"
+                                BorderBrush="Transparent"
+                                Click="AddEquipment_Click"
+                                Content="Add" />
+                            <StackPanel
+                                Grid.Column="1"
+                                HorizontalAlignment="Right"
+                                Orientation="Horizontal">
+                                <Button
+                                    Name="EquipmentEdit"
+                                    Grid.Column="2"
+                                    Width="80"
+                                    Background="DarkCyan"
+                                    BorderBrush="Transparent"
+                                    Click="EquipmentEdit_Click"
+                                    Content="Edit" />
+                                <Button
+                                    Name="EquipmentDelete"
+                                    Grid.Column="4"
+                                    Width="80"
+                                    Background="DarkCyan"
+                                    BorderBrush="Transparent"
+                                    Click="EquipmentDelete_Click"
+                                    Content="Delete" />
+                            </StackPanel>
+
+                        </Grid>
+                        <Grid Grid.Row="2">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="150" />
+                                <ColumnDefinition Width="400" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Label Content="Equipment ID" FontWeight="Bold" />
+                            <TextBlock
+                                Name="txtEquipmentId"
+                                Grid.Column="1"
+                                Width="300"
+                                HorizontalAlignment="Left"
+                                Text="{Binding Path=EquipmentId}" />
+                            <Button
+                                Name="AddEquipmentRepair"
+                                Grid.Column="2"
+                                Width="100"
+                                Height="30"
+                                HorizontalAlignment="Right"
+                                Background="DarkCyan"
+                                BorderBrush="Transparent"
+                                Click="AddEquipmentRepair_Click"
+                                Content="Add ER" />
+                        </Grid>
+                        <Grid Grid.Row="4">
+                            <Grid Grid.Row="1">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="150" />
+                                    <ColumnDefinition Width="400" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <Label Content="Equipment Name" FontWeight="Bold" />
+                                <TextBlock
+                                    Name="txtEquipmentName"
+                                    Grid.Column="1"
+                                    Width="300"
+                                    HorizontalAlignment="Left"
+                                    Text="{Binding Path=EquipmentName}" />
+                                <Button
+                                    Name="AddTrainedEmployee"
+                                    Grid.Column="2"
+                                    Width="100"
+                                    Height="30"
+                                    HorizontalAlignment="Right"
+                                    Background="DarkCyan"
+                                    BorderBrush="Transparent"
+                                    Click="AddTrainedEmployee_Click"
+                                    Content="Add TR" />
+                            </Grid>
+                        </Grid>
+                        <Grid Grid.Row="5">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="330" />
+                                <ColumnDefinition Width="3" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Grid Grid.Column="0" Background="Azure">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="25" />
+                                    <RowDefinition Height="180" />
+                                    <RowDefinition Height="25" />
+                                    <RowDefinition Height="*" />
+                                </Grid.RowDefinitions>
+                                <Label
+                                    Grid.Row="0"
+                                    Background="Aquamarine"
+                                    Content="Equipment Repair (ER)"
+                                    FontSize="12"
+                                    FontStyle="Oblique" />
+                                <ListView
+                                    Name="ListViewEquipmentRepair"
+                                    Grid.Row="1"
+                                    Width="500"
+                                    ItemsSource="{Binding Path=EquipmentRepairDetailList}">
+                                    <ListView.View>
+                                        <GridView>
+                                            <GridViewColumn
+                                                Width="130"
+                                                DisplayMemberBinding="{Binding DateOfRepair}"
+                                                Header="Date of Repair " />
+                                            <GridViewColumn
+                                                Width="99"
+                                                DisplayMemberBinding="{Binding Amount}"
+                                                Header="Amount (₱)" />
+                                            <GridViewColumn
+                                                Width="390"
+                                                DisplayMemberBinding="{Binding Remarks}"
+                                                Header="Remarks" />
+                                        </GridView>
+                                    </ListView.View>
+                                </ListView>
+                                <Label
+                                    Grid.Row="2"
+                                    Background="Aquamarine"
+                                    Content="Trained Employee (TR)"
+                                    FontSize="12"
+                                    FontStyle="Oblique" />
+                                <ListView
+                                    Name="ListViewTrainedEmployee"
+                                    Grid.Row="3"
+                                    BorderBrush="DarkGray"
+                                    ItemsSource="{Binding Path=EquipmentTrainedEmployeeDetailList}">
+                                    <ListView.View>
+                                        <GridView>
+                                            <GridViewColumn
+                                                Width="100"
+                                                DisplayMemberBinding="{Binding FirstName}"
+                                                Header="First Name" />
+                                            <GridViewColumn
+                                                Width="100"
+                                                DisplayMemberBinding="{Binding LastName}"
+                                                Header="Last Name" />
+                                            <GridViewColumn
+                                                Width="150"
+                                                DisplayMemberBinding="{Binding ContactNumber}"
+                                                Header="Contact Number" />
+                                        </GridView>
+                                    </ListView.View>
+                                </ListView>
+                            </Grid>
+                            <Grid Grid.Column="1" Background="DarkGray" />
+                            <Grid Grid.Column="2" Background="Azure">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="25" />
+                                    <RowDefinition Height="*" />
+                                </Grid.RowDefinitions>
+                                <Label
+                                    Grid.Row="0"
+                                    Background="Aquamarine"
+                                    Content="Details"
+                                    FontSize="12"
+                                    FontStyle="Oblique" />
+                                <ListView
+                                    Name="ListViewTaskDetailList"
+                                    Grid.Row="1"
+                                    Width="650"
+                                    BorderBrush="DarkGray"
+                                    ItemsSource="{Binding Path=EquipmentTaskDetailList}">
+                                    <ListView.View>
+                                        <GridView>
+                                            <GridViewColumn
+                                                Width="120"
+                                                DisplayMemberBinding="{Binding TaskName}"
+                                                Header="Task Name " />
+                                            <GridViewColumn
+                                                Width="130"
+                                                DisplayMemberBinding="{Binding DateConducted}"
+                                                Header="Date Conducted" />
+                                            <GridViewColumn
+                                                Width="500"
+                                                DisplayMemberBinding="{Binding Description}"
+                                                Header="Description" />
+                                        </GridView>
+                                    </ListView.View>
+                                </ListView>
+                            </Grid>
+                        </Grid>
+
+                    </Grid>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="EmployeeTab" Header="Employee">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="180" />
+                        <ColumnDefinition Width="5" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="70" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="0">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="30" />
+                                <RowDefinition Height="*" />
+                            </Grid.RowDefinitions>
+                            <Button
+                                Name="EmployeeRefresh"
+                                Grid.Column="0"
+                                Width="80"
+                                Height="30"
+                                HorizontalAlignment="Right"
+                                Background="DarkCyan"
+                                BorderBrush="Transparent"
+                                Click="EmployeeRefresh_Click"
+                                Content="Refresh" />
+                            <TextBox
+                                Grid.Row="1"
+                                Width="170"
+                                Height="30"
+                                HorizontalAlignment="Left"
+                                Text="{Binding Path=SearchText, Delay=100, UpdateSourceTrigger=PropertyChanged}" />
+                        </Grid>
+                        <Grid Grid.Row="1">
+                            <ListBox
+                                Name="ListViewEmployee"
+                                Background="LightSeaGreen"
+                                ItemsSource="{Binding Path=EmployeeList}"
+                                SelectedItem="{Binding Path=SelectedEmployee}">
+                                <ListBox.ItemTemplate>
+                                    <DataTemplate>
+                                        <Border
+                                            Width="140"
+                                            Margin="0,0,0,3"
+                                            Padding="6"
+                                            BorderBrush="Teal"
+                                            BorderThickness="1">
+                                            <StackPanel Margin="5,2">
+                                                <TextBlock FontSize="10" Text="{Binding Path=EmployeeId}" />
+                                                <TextBlock FontSize="15" Text="{Binding Path=LastName}" />
+                                                <TextBlock FontSize="12" Text="{Binding Path=FirstName}" />
+                                            </StackPanel>
+                                        </Border>
+                                    </DataTemplate>
+                                </ListBox.ItemTemplate>
+                            </ListBox>
+                        </Grid>
+                    </Grid>
+                    <Grid Grid.Column="1" />
+
+                    <Grid Grid.Column="2" DataContext="{Binding Path=SelectedEmployee}">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="5" />
+                            <RowDefinition Height="160" />
+                            <RowDefinition Height="5" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="90" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+
+                            <StackPanel
+                                Grid.Column="1"
+                                HorizontalAlignment="Right"
+                                Orientation="Horizontal">
+                                <Button
+                                    Name="EmployeeEdit"
+                                    Width="80"
+                                    Background="DarkCyan"
+                                    BorderBrush="Transparent"
+                                    Click="EmployeeEdit_Click"
+                                    Content="Edit" />
+                                <Button
+                                    Name="EmployeeDelete"
+                                    Width="80"
+                                    Background="DarkCyan"
+                                    BorderBrush="Transparent"
+                                    Click="EmployeeDelete_Click"
+                                    Content="Delete" />
+                            </StackPanel>
+
+                            <Button
+                                Name="AddEmployee"
+                                Grid.Column="0"
+                                Width="80"
+                                Height="30"
+                                HorizontalAlignment="Right"
+                                Background="DarkCyan"
+                                BorderBrush="Transparent"
+                                Click="AddEmployee_Click"
+                                Content="Add" />
+                        </Grid>
+
+                        <Grid Grid.Row="2">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="150" />
+                                <ColumnDefinition Width="200" />
+                                <ColumnDefinition Width="150" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="30" />
+                                <RowDefinition Height="30" />
+                                <RowDefinition Height="30" />
+                                <RowDefinition Height="30" />
+                                <RowDefinition Height="35" />
+                            </Grid.RowDefinitions>
+                            <Label
+                                Grid.Row="0"
+                                Grid.Column="0"
+                                Content="Employee ID"
+                                FontWeight="Bold" />
+                            <Label
+                                Grid.Row="1"
+                                Grid.Column="0"
+                                Content="Last Name"
+                                FontWeight="Bold" />
+                            <Label
+                                Grid.Row="2"
+                                Grid.Column="0"
+                                Content="First Name"
+                                FontWeight="Bold" />
+                            <Label
+                                Grid.Row="3"
+                                Grid.Column="0"
+                                Content="Contact Number"
+                                FontWeight="Bold" />
+                            <Label
+                                Grid.Row="4"
+                                Grid.Column="0"
+                                Content="Supervisor ID"
+                                FontWeight="Bold" />
+
+                            <TextBlock
+                                Name="txtBlockEmployeeId"
+                                Grid.Row="0"
+                                Grid.Column="1"
+                                Width="200"
+                                HorizontalAlignment="Left"
+                                Text="{Binding Path=EmployeeId}" />
+                            <TextBlock
+                                Name="txtBlockLastName"
+                                Grid.Row="1"
+                                Grid.Column="1"
+                                Width="200"
+                                HorizontalAlignment="Left"
+                                Text="{Binding Path=LastName}" />
+                            <TextBlock
+                                Name="txtBlockFirstName"
+                                Grid.Row="2"
+                                Grid.Column="1"
+                                Width="200"
+                                HorizontalAlignment="Left"
+                                Text="{Binding Path=FirstName}" />
+                            <TextBlock
+                                Name="txtBlockContactNumber"
+                                Grid.Row="3"
+                                Grid.Column="1"
+                                Width="200"
+                                HorizontalAlignment="Left"
+                                Text="{Binding Path=CellPhone}" />
+                            <TextBlock
+                                Name="txtBlockSupervisorId"
+                                Grid.Row="4"
+                                Grid.Column="1"
+                                Width="200"
+                                HorizontalAlignment="Left"
+                                Text="{Binding Path=SupervisorId}" />
+
+                            <Label
+                                Grid.Row="0"
+                                Grid.Column="2"
+                                Content="Experience Level"
+                                FontWeight="Bold" />
+                            <Label
+                                Grid.Row="1"
+                                Grid.Column="2"
+                                Content="Status"
+                                FontWeight="Bold" />
+                            <Label
+                                Grid.Row="2"
+                                Grid.Column="2"
+                                Content="Type"
+                                FontWeight="Bold" />
+                            <Label
+                                Grid.Row="3"
+                                Grid.Column="2"
+                                Content="Total Hours Work"
+                                FontWeight="Bold" />
+
+                            <TextBlock
+                                Name="txtBlockExperienceLevel"
+                                Grid.Row="0"
+                                Grid.Column="3"
+                                Width="200"
+                                HorizontalAlignment="Left"
+                                Text="{Binding Path=ExperienceLevel}" />
+                            <TextBlock
+                                Name="txtBlockStatus"
+                                Grid.Row="1"
+                                Grid.Column="3"
+                                Width="200"
+                                HorizontalAlignment="Left"
+                                Text="{Binding Path=EmployeeStatus}" />
+                            <TextBlock
+                                Name="txtBlockType"
+                                Grid.Row="2"
+                                Grid.Column="3"
+                                Width="200"
+                                HorizontalAlignment="Left"
+                                Text="{Binding Path=EmployeeType}" />
+                            <TextBlock
+                                Name="txtBlockTotalHoursWork"
+                                Grid.Row="3"
+                                Grid.Column="3"
+                                Width="200"
+                                HorizontalAlignment="Left"
+                                Text="{Binding Path=TotalHoursWorked}" />
+                        </Grid>
+                        <Grid Grid.Row="3" Background="DarkGray" />
+                        <Grid Grid.Row="4" Background="Azure">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="6*" />
+                                <ColumnDefinition Width="715*" />
+                            </Grid.ColumnDefinitions>
+                            <ListView
+                                Name="ListViewEmployeeDetails"
+                                Grid.ColumnSpan="2"
+                                ItemsSource="{Binding Path=EmployeeDetailList}">
+                                <ListView.View>
+                                    <GridView>
+                                        <GridViewColumn
+                                            Width="180"
+                                            DisplayMemberBinding="{Binding ServiceId}"
+                                            Header="Service ID" />
+                                        <GridViewColumn
+                                            Width="180"
+                                            DisplayMemberBinding="{Binding TaskName}"
+                                            Header="Task" />
+                                        <GridViewColumn
+                                            Width="180"
+                                            DisplayMemberBinding="{Binding DateConducted}"
+                                            Header="Date Conducted" />
+                                        <GridViewColumn
+                                            Width="180"
+                                            DisplayMemberBinding="{Binding HoursWorked}"
+                                            Header="Hours Worked" />
+                                    </GridView>
+                                </ListView.View>
+                            </ListView>
+                        </Grid>
+                    </Grid>
+
+                </Grid>
+            </TabItem>
+            <TabItem
+                x:Name="AccountTab"
+                Height="24"
+                Margin="-2,0,0,-2"
+                VerticalAlignment="Bottom"
+                Header="Account">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="230" />
+                        <ColumnDefinition Width="5" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="50" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="0">
+                            <TextBox
+                                Width="200"
+                                Height="30"
+                                HorizontalAlignment="Left"
+                                Text="{Binding Path=SearchText, Delay=100, UpdateSourceTrigger=PropertyChanged}" />
+                        </Grid>
+                        <Grid Grid.Row="1">
+                            <ListBox
+                                Name="ListViewAccount"
+                                Background="LightSeaGreen"
+                                ItemsSource="{Binding Path=AccountList}"
+                                SelectedItem="{Binding Path=SelectedAccount}">
+                                <ListBox.ItemTemplate>
+                                    <DataTemplate>
+                                        <Border
+                                            Width="170"
+                                            Margin="0,0,0,3"
+                                            Padding="6"
+                                            BorderBrush="Teal"
+                                            BorderThickness="1">
+                                            <StackPanel Margin="5,2">
+                                                <TextBlock FontSize="10" Text="{Binding Path=AccountId}" />
+                                                <TextBlock FontSize="8" Text="{Binding Path=EmployeeId}" />
+                                                <TextBlock FontSize="15" Text="{Binding Path=EmployeeLastName}" />
+                                                <TextBlock FontSize="13" Text="{Binding Path=EmployeeFirstName}" />
+                                                <TextBlock FontSize="8" Text="{Binding Path=Role}" />
+                                            </StackPanel>
+                                        </Border>
+                                    </DataTemplate>
+                                </ListBox.ItemTemplate>
+                            </ListBox>
+                        </Grid>
+                    </Grid>
+                    <Grid Grid.Column="1" />
+                    <Grid Grid.Column="2" DataContext="{Binding Path=SelectedAccount}">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="5" />
+                            <RowDefinition Height="50" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="5" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="90" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Button
+                                Name="AddAccount"
+                                Grid.Column="0"
+                                Width="80"
+                                Height="30"
+                                HorizontalAlignment="Right"
+                                Background="DarkCyan"
+                                BorderBrush="Transparent"
+                                Click="AddAccount_Click"
+                                Content="Add" />
+                            <StackPanel
+                                Grid.Column="1"
+                                HorizontalAlignment="Right"
+                                Orientation="Horizontal">
+                                <Button
+                                    Name="AccountEdit"
+                                    Width="80"
+                                    Background="DarkCyan"
+                                    BorderBrush="Transparent"
+                                    Click="AccountEdit_Click"
+                                    Content="Edit" />
+                                <Button
+                                    Name="AccountDelete"
+                                    Width="80"
+                                    Background="DarkCyan"
+                                    BorderBrush="Transparent"
+                                    Click="AccountDelete_Click"
+                                    Content="Delete" />
+
+                            </StackPanel>
+
+                        </Grid>
+                        <Grid Grid.Row="2">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="100" />
+                                <ColumnDefinition Width="5" />
+                                <ColumnDefinition Width="150" />
+                                <ColumnDefinition Width="5" />
+                                <ColumnDefinition Width="70" />
+                                <ColumnDefinition Width="5" />
+                                <ColumnDefinition Width="200" />
+                            </Grid.ColumnDefinitions>
+                            <Label
+                                Grid.Column="0"
+                                HorizontalAlignment="Right"
+                                VerticalAlignment="Center"
+                                Content="First Name"
+                                FontWeight="Bold" />
+
+                            <TextBlock
+                                Grid.Column="2"
+                                VerticalAlignment="Center"
+                                FontSize="19"
+                                Text="{Binding Path=EmployeeFirstName}" />
+
+                            <Label
+                                Grid.Column="4"
+                                HorizontalAlignment="Right"
+                                VerticalAlignment="Center"
+                                Content="Last Name"
+                                FontWeight="Bold" />
+
+                            <TextBlock
+                                Grid.Column="6"
+                                VerticalAlignment="Center"
+                                FontSize="19"
+                                Text="{Binding Path=EmployeeLastName}" />
+                        </Grid>
+
+                        <Grid Grid.Row="4">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="100" />
+                                <ColumnDefinition Width="5" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Label
+                                Grid.Column="0"
+                                HorizontalAlignment="Right"
+                                Content="Account ID"
+                                FontWeight="Bold" />
+                            <TextBlock
+                                Grid.Column="2"
+                                HorizontalAlignment="Left"
+                                VerticalAlignment="Top"
+                                FontSize="19"
+                                Text="{Binding Path=AccountId}" />
+                        </Grid>
+                        <Grid Grid.Row="5">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="100" />
+                                <ColumnDefinition Width="5" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Label
+                                Grid.Column="0"
+                                HorizontalAlignment="Right"
+                                Content="Employee ID"
+                                FontWeight="Bold" />
+                            <TextBlock
+                                Grid.Column="2"
+                                HorizontalAlignment="Left"
+                                VerticalAlignment="Top"
+                                FontSize="19"
+                                Text="{Binding Path=EmployeeId}" />
+                        </Grid>
+                        <Grid Grid.Row="6">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="100" />
+                                <ColumnDefinition Width="5" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Label
+                                Grid.Column="0"
+                                HorizontalAlignment="Right"
+                                Content="Role"
+                                FontWeight="Bold" />
+                            <TextBlock
+                                Grid.Column="2"
+                                HorizontalAlignment="Left"
+                                VerticalAlignment="Top"
+                                FontSize="19"
+                                Text="{Binding Path=Role}" />
+                        </Grid>
+                        <Grid Grid.Row="7">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="100" />
+                                <ColumnDefinition Width="5" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Label
+                                Grid.Column="0"
+                                HorizontalAlignment="Right"
+                                Content="Username"
+                                FontWeight="Bold" />
+                            <TextBlock
+                                Grid.Column="2"
+                                HorizontalAlignment="Left"
+                                VerticalAlignment="Top"
+                                FontSize="19"
+                                Text="{Binding Path=Username}" />
+                        </Grid>
+                    </Grid>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

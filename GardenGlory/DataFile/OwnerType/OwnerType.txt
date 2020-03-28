@@ -1,0 +1,2 @@
+insert into OwnerType (OwnerTypeId, Type) values ('ONT 001', 'Individual');
+insert into OwnerType (OwnerTypeId, Type) values ('ONT 002', 'Organization');

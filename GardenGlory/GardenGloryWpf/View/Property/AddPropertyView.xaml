@@ -1,0 +1,160 @@
+﻿<Window
+    x:Class="GardenGloryWpf.View.Property.AddPropertyView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:GardenGloryWpf.View.Property"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="AddPropertyView"
+    Width="410"
+    Height="420"
+    WindowStartupLocation="CenterScreen"
+    mc:Ignorable="d">
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50" />
+                <RowDefinition Height="50" />
+                <RowDefinition Height="50" />
+                <RowDefinition Height="50" />
+                <RowDefinition Height="50" />
+                <RowDefinition Height="50" />
+                <RowDefinition Height="*" />
+
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="120" />
+                <ColumnDefinition Width="5" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Label
+                Grid.Row="0"
+                Grid.Column="0"
+                HorizontalAlignment="Right"
+                VerticalAlignment="Center"
+                Content="Owner" />
+            <Label
+                Grid.Row="1"
+                Grid.Column="0"
+                HorizontalAlignment="Right"
+                VerticalAlignment="Center"
+                Content="Property Name" />
+            <Label
+                Grid.Row="2"
+                Grid.Column="0"
+                HorizontalAlignment="Right"
+                VerticalAlignment="Center"
+                Content="Street" />
+            <Label
+                Grid.Row="3"
+                Grid.Column="0"
+                HorizontalAlignment="Right"
+                VerticalAlignment="Center"
+                Content="City" />
+            <Label
+                Grid.Row="4"
+                Grid.Column="0"
+                HorizontalAlignment="Right"
+                VerticalAlignment="Center"
+                Content="Zip" />
+            <Label
+                Grid.Row="5"
+                Grid.Column="0"
+                HorizontalAlignment="Right"
+                VerticalAlignment="Center"
+                Content="Description" />
+            <ComboBox
+                Name="CmbOwner"
+                Grid.Row="0"
+                Grid.Column="2"
+                Width="200"
+                HorizontalAlignment="Left"
+                DisplayMemberPath="OwnerNameString"
+                FontSize="18"
+                IsEditable="True"
+                IsTextSearchEnabled="False"
+                ItemsSource="{Binding Path=AssociatedOwnerCmbViewModel.Owners}"
+                PreviewKeyUp="CmbOwner_OnPreviewKeyUp"
+                PreviewTextInput="CmbOwner_OnPreviewTextInput"
+                SelectedItem="{Binding Path=AssociatedOwnerCmbViewModel.SelectedOwner}"
+                Text="{Binding AssociatedOwnerCmbViewModel.SearchOwnerText, UpdateSourceTrigger=Explicit, Delay=0100}" />
+            <TextBox
+                Name="txtPropertyName"
+                Grid.Row="1"
+                Grid.Column="2"
+                Width="200"
+                Height="40"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center"
+                FontSize="20"
+                Text="{Binding Path=AssociatedPropertyModel.PropertyName}" />
+            <TextBox
+                Name="txtStreet"
+                Grid.Row="2"
+                Grid.Column="2"
+                Width="200"
+                Height="40"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center"
+                FontSize="20"
+                Text="{Binding Path=AssociatedPropertyModel.Street}" />
+            <TextBox
+                Name="txtCity"
+                Grid.Row="3"
+                Grid.Column="2"
+                Width="200"
+                Height="40"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center"
+                FontSize="20"
+                Text="{Binding Path=AssociatedPropertyModel.City}" />
+            <TextBox
+                Name="txtZip"
+                Grid.Row="4"
+                Grid.Column="2"
+                Width="200"
+                Height="40"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center"
+                FontSize="20"
+                Text="{Binding Path=AssociatedPropertyModel.Zip}" />
+            <TextBox
+                Name="txtDescription"
+                Grid.Row="5"
+                Grid.Column="2"
+                Width="200"
+                Height="40"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center"
+                FontSize="20"
+                Text="{Binding Path=AssociatedPropertyModel.Description}" />
+            <Grid Grid.Row="6" Grid.Column="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100" />
+                    <ColumnDefinition Width="80" />
+                    <ColumnDefinition Width="5" />
+                    <ColumnDefinition Width="80" />
+                </Grid.ColumnDefinitions>
+                <Button
+                    Name="PropertySave"
+                    Grid.Column="1"
+                    Background="DarkCyan"
+                    BorderBrush="Transparent"
+                    Click="PropertySave_Click"
+                    Content="Save" />
+                <Button
+                    Name="PropertyCancel"
+                    Grid.Column="3"
+                    Width="80"
+                    Margin="0,26,0,26"
+                    HorizontalAlignment="Left"
+                    Background="DarkCyan"
+                    BorderBrush="Transparent"
+                    Click="PropertyCancel_Click"
+                    Content="Cancel" />
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>
+

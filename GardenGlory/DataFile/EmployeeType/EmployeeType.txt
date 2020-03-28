@@ -1,0 +1,13 @@
+insert into EmployeeType(EmployeeTypeId, Type) values ('EMPT 001', 'Arborist');
+insert into EmployeeType(EmployeeTypeId, Type) values ('EMPT 002', 'Horticulturist');
+insert into EmployeeType(EmployeeTypeId, Type) values ('EMPT 003', 'Botanist');
+insert into EmployeeType(EmployeeTypeId, Type) values ('EMPT 004', 'Landscape Architects');
+insert into EmployeeType(EmployeeTypeId, Type) values ('EMPT 005', 'Gardener');
+insert into EmployeeType(EmployeeTypeId, Type) values ('EMPT 006', 'Cashier');
+insert into EmployeeType(EmployeeTypeId, Type) values ('EMPT 007', 'Finance');
+insert into EmployeeType(EmployeeTypeId, Type) values ('EMPT 008', 'Manager');
+insert into EmployeeType(EmployeeTypeId, Type) values ('EMPT 009', 'Staff');
+insert into EmployeeType(EmployeeTypeId, Type) values ('EMPT 010', 'Security Guard');
+insert into EmployeeType(EmployeeTypeId, Type) values ('EMPT 011', 'Janitor');
+insert into EmployeeType(EmployeeTypeId, Type) values ('EMPT 012', 'Assistant');
+insert into EmployeeType(EmployeeTypeId, Type) values ('EMPT 013', 'Administrator');

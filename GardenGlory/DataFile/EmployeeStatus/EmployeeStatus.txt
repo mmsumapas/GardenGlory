@@ -1,0 +1,2 @@
+insert into EmployeeStatus(EmployeeStatusId, Status) values ('EMPS 001', 'Full-time');
+insert into EmployeeStatus(EmployeeStatusId, Status) values ('EMPS 002', 'Part-time');

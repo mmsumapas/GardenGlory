@@ -1,0 +1,3 @@
+insert into ServiceType(ServiceTypeId, Type) values ('SVT 001', 'Maintenance');
+insert into ServiceType(ServiceTypeId, Type) values ('SVT 002', 'One-time');
+insert into ServiceType(ServiceTypeId, Type) values ('SVT 003', 'Ongoing');

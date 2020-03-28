@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="View\Account\AddAccountView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Account\EditAccountHomeView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Account\EditAccountView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Customer\AddCustomerView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Customer\EditCustomerView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Employee\AddEmployeeView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Employee\EditEmployeeView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Equipment\AddEquipmentRepairView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Equipment\AddEquipmentView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Equipment\AddTrainedEmployeeView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Equipment\EditEquipmentView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Property\AddPropertyDescriptionView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Property\AddPropertyView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Property\EditPropertyDescriptionView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Property\EditPropertyView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Service\AddPaymentView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Service\AddServiceView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Service\AddTaskView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Service\EditServiceView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Account\AddAccountView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Account\EditAccountHomeView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Account\EditAccountView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Customer\AddCustomerView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Customer\EditCustomerView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Employee\AddEmployeeView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Employee\EditEmployeeView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Equipment\AddEquipmentRepairView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Equipment\AddEquipmentView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Equipment\AddTrainedEmployeeView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Equipment\EditEquipmentView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Property\AddPropertyDescriptionView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Property\AddPropertyView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Property\EditPropertyDescriptionView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Property\EditPropertyView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Service\AddPaymentView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Service\AddServiceView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Service\AddTaskView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Service\EditServiceView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

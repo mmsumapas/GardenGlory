@@ -1,0 +1,88 @@
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.deps.json
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\GardenGlory.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\GardenGlory.pdb
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csprojAssemblyReference.cache
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfo.cs
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CopyComplete
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Mecca\Documents\College\School Year\Second Year\Second Sem\Database\Final Project\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.deps.json
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\GardenGlory.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\GardenGlory.pdb
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csprojAssemblyReference.cache
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfo.cs
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CopyComplete
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Mecca\Downloads\GardenGlory\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.deps.json
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\GardenGlory.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\GardenGlory.pdb
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csprojAssemblyReference.cache
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfo.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CopyComplete
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.deps.json
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\GardenGlory.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\GardenGlory.pdb
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csprojAssemblyReference.cache
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfo.cs
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CopyComplete
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Mecca\Downloads\GardenGlory-master\GardenGlory-master\GardenGlory\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.deps.json
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\GardenGlory.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\GardenGlory.pdb
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csprojAssemblyReference.cache
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfo.cs
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CopyComplete
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Mecca\Documents\GitHub\GardenGlory\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.deps.json
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\GardenGlory.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\GardenGlory.pdb
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csprojAssemblyReference.cache
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfo.cs
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CopyComplete
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Mecca\Downloads\GardenGlory-master (1)\GardenGlory-master\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.deps.json
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\GardenGlory.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\GardenGlory.pdb
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csprojAssemblyReference.cache
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfo.cs
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CopyComplete
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Mecca\Documents\GitHub\GarndenGlory\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.deps.json
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\GardenGlory.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\ServiceLayer\bin\Debug\netcoreapp3.1\GardenGlory.pdb
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csprojAssemblyReference.cache
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfo.cs
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CopyComplete
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Mecca\Documents\UpdateGardenGlory\Final\GardenGlory\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.pdb
